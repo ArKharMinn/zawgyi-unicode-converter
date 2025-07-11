@@ -8,7 +8,6 @@ Includes a dynamic video background for a modern UI experience.
 
 ## 🔤 Features
 
-- 🔄 **Auto-detects Zawgyi or Unicode** input
 - ⚡ **Real-time conversion** as you type
 - 🎥 **Video background** for visual appeal
 - 🧠 Lightweight logic with no backend
