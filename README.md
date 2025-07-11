@@ -18,4 +18,4 @@ Includes a dynamic video background for a modern UI experience.
 
 
 
-![Zawgyi Unicode Converter Screenshot](/public/1.png)
+![Zawgyi Unicode Converter Screenshot](images/1.png)
